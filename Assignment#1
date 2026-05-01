@@ -1,14 +1,22 @@
 # AI Website Project - Restaurant Website
 
+# Peoject Title - Hungry Hub
+
 ## Project Description
-This project is a website developed as part of Assignment 01 using AI tools. It is based on website of restaurant and includes basic web pages.
+This project is a website developed as part of Assignment 01 using AI tools. It is based on website of restaurant and includes basic web 
+pages.
 
 ## AI Tool Used
 ChatGPT
 loveable
 
 ## Prompt Used
-Write a simple website using HTML and CSS for a restaurant website with homepage and contact section.
+I want a prompt in which it specify the role of AI, task, context, format and tone/style  of a restaurant website. The website must 
+include homepage, about section, menu section, contact details, opening hours. It's design should be modern, attractive, responsive
+(mobile+destop), high quality food images, clean layout and readable fonts. It's features should be online ordering system , reservation
+/booking system, search option for menu items and cart or order summary. some extra features like customer reviews , gallery section,
+social media links, location system. The food must include some categories like desi , chineese , italian , halal. use html, css and java
+script for this with clean and well structured and hover affects and animation system.
 
 ## Features
 - Homepage
